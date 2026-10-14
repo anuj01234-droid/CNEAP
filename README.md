@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill anuj
+<b>Discipline | <b> anuj
 :--|:--|
 <b> Lab | <b> virtual lab
 <b> Experiment|     <b>CNEAP
